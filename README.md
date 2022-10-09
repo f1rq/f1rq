@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi 👋, I'm firq, beginner programmer and Linux enthusiast from Poland.
+# Hi 👋, I'm firq, beginner programmer and Linux enthusiast from Poland.
 
 
 # 💻 Tech Stack:
