@@ -1,9 +1,3 @@
-<style>
-.content {
-  max-width: 500px;
-  margin: auto;
-}
-</style>
 # 💫 About Me:
 🌱 I’m currently learning Java, C#<br><br>💬 Ask me about Linux, games
 
