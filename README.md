@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi 👋, I'm firq, beginner programmer and Linux/Windows enjoyer from Poland.
 
