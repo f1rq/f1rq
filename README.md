@@ -1,6 +1,6 @@
-<h1>Hi, I'm firq</h1>
+#Hi, I'm firq
 
-<h3>I'm a beginner programmer and Linux enjoyer from Poland</h3>
+###I'm a beginner programmer and Linux enjoyer from Poland
 ![](https://github-readme-stats.vercel.app/api?username=0firq&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0firq&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0firq&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
