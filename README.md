@@ -8,3 +8,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=0firq&icon=0&color=0)](https://visitcount.itsvg.in)
 
+UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity. 
+~Dennis Ritchie
