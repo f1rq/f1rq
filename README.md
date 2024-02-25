@@ -12,14 +12,16 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/f1rq) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=f1rq&icon=0&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/f1rq) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) g align="center" src="https://github-readme-stats.vercel.app/api?username=f1rq&show_icons=true&locale=en" alt="f1rq" /></p> -->
 
-UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity. 
-~Dennis Ritchie
+<!-- UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity. 
+~Dennis Ritchie -->
