@@ -1,4 +1,5 @@
-
+<h1 align="left">Hi, I'm f1rq</h1>
+<h3 align="left">I'm a beginner programmer, passionate gamer and high school student from Poland.</h3>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YU5yWFt7vB) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_f1rq_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/0firq) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_f1rq_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC3_JW60T_NadY_JPmAyMq9g) 
 
