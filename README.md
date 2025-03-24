@@ -1,3 +1,6 @@
+<a href="git.f1rq.ovh">Moved here</a>
+
+
 <h1 align="left">Hi, I'm f1rq</h1>
 <h3 align="left">I'm a beginner programmer, passionate gamer and high school student from Poland.</h3>
 
