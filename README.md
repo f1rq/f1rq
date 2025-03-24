@@ -1,4 +1,4 @@
-<a href="git.f1rq.ovh">Moved here</a>
+<a href="https://git.f1rq.ovh">Moved here</a>
 
 
 <h1 align="left">Hi, I'm f1rq</h1>
