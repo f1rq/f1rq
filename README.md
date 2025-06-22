@@ -1,7 +1,3 @@
-<h1>My self hosted git repository:</h1>
-<a href="https://git.f1rq.ovh">f1rq Git Repository</a>
-
-
 <h1 align="left">Hi, I'm f1rq</h1>
 <h3 align="left">I'm a beginner programmer, passionate gamer and high school student from Poland.</h3>
 
