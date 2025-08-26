@@ -4,8 +4,8 @@
 <h2>👤 More info about me:</h2>
 <h3><a href="https://f1rq.ovh/">f1rq.ovh</a></h3>
 
-
 <hr>
+
 ![](https://github-readme-stats.vercel.app/api?username=f1rq&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=f1rq&theme=dark&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=f1rq&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
