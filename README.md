@@ -2,7 +2,7 @@
 <h3 align="left">I'm a beginner programmer, passionate gamer and high school student from Poland.</h3>
 
 <h2>👤 More info about me:</h2>
-<a href="https://f1rq.ovh/"><h3>f1rq.ovh</h3></a>
+<h3><a href="https://f1rq.ovh/">f1rq.ovh</a></h3>
 
 
 # 📊 GitHub Stats:
